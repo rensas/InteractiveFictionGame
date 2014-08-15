@@ -1,0 +1,28 @@
+﻿<Window x:Class="InteractiveFictionGame.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Interactive Fiction Interpreter" Height="350" Width="525">
+    <Grid ShowGridLines="False">
+        <Grid.Background>
+            <SolidColorBrush Color="BurlyWood"/>
+        </Grid.Background>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="8*"></RowDefinition>
+            <RowDefinition Height="*"></RowDefinition>
+            <RowDefinition Height=".5*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="4*"></ColumnDefinition>
+            <ColumnDefinition Width="*"></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+        <TextBox Name="world" Grid.Row="0" Grid.Column="0" Margin="10,10,5,4" IsReadOnly="True" VerticalContentAlignment="Bottom" BorderBrush="Black" BorderThickness="1">This is where the world will be displayed.</TextBox>
+        <StackPanel Grid.Row="0" Grid.Column="1">
+            <Label Margin="10, 10, 10, 5" FontSize="24" FontWeight="Bold">Info:</Label>
+            <TextBlock Margin="10, 10, 10, 20" TextWrapping="Wrap">
+                Welcome to IGame! Enter your command in the bottom box, and the results will show in the top box.
+            </TextBlock>
+        </StackPanel>
+        <TextBox Name="command" Grid.Row="1" Grid.Column="0" Margin="10, 4, 5, 4" BorderBrush="Black" BorderThickness="1"></TextBox>
+        <Button Grid.Row="1" Grid.Column="1" Margin="0, 6, 10, 6">Go!</Button>
+    </Grid>
+</Window>

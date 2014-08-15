@@ -1,0 +1,13 @@
+c:\users\asr\documents\visual studio 2012\Projects\InteractiveFictionGame\InteractiveFictionGame\bin\Debug\InteractiveFictionGame.exe.config
+c:\users\asr\documents\visual studio 2012\Projects\InteractiveFictionGame\InteractiveFictionGame\bin\Debug\InteractiveFictionGame.exe
+c:\users\asr\documents\visual studio 2012\Projects\InteractiveFictionGame\InteractiveFictionGame\bin\Debug\InteractiveFictionGame.pdb
+c:\users\asr\documents\visual studio 2012\Projects\InteractiveFictionGame\InteractiveFictionGame\obj\Debug\InteractiveFictionGame.csprojResolveAssemblyReference.cache
+c:\users\asr\documents\visual studio 2012\Projects\InteractiveFictionGame\InteractiveFictionGame\obj\Debug\MainWindow.baml
+c:\users\asr\documents\visual studio 2012\Projects\InteractiveFictionGame\InteractiveFictionGame\obj\Debug\MainWindow.g.cs
+c:\users\asr\documents\visual studio 2012\Projects\InteractiveFictionGame\InteractiveFictionGame\obj\Debug\App.g.cs
+c:\users\asr\documents\visual studio 2012\Projects\InteractiveFictionGame\InteractiveFictionGame\obj\Debug\InteractiveFictionGame_MarkupCompile.cache
+c:\users\asr\documents\visual studio 2012\Projects\InteractiveFictionGame\InteractiveFictionGame\obj\Debug\InteractiveFictionGame.g.resources
+c:\users\asr\documents\visual studio 2012\Projects\InteractiveFictionGame\InteractiveFictionGame\obj\Debug\InteractiveFictionGame.Properties.Resources.resources
+c:\users\asr\documents\visual studio 2012\Projects\InteractiveFictionGame\InteractiveFictionGame\obj\Debug\InteractiveFictionGame.csproj.GenerateResource.Cache
+c:\users\asr\documents\visual studio 2012\Projects\InteractiveFictionGame\InteractiveFictionGame\obj\Debug\InteractiveFictionGame.exe
+c:\users\asr\documents\visual studio 2012\Projects\InteractiveFictionGame\InteractiveFictionGame\obj\Debug\InteractiveFictionGame.pdb
